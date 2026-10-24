@@ -4,7 +4,7 @@ A rule-based chatbot built as **Project 1** of the DecodeLabs AI Industrial Trai
 It uses pure control flow and logic (no machine learning) to respond to predefined user inputs.
 
 ## 🔗 Live Demo
-**Try it here:** https://YOUR_USERNAME.github.io/rule-based-ai-chatbot/
+**Try it here:**  https://emanshafiq1402-en.github.io/DecodeLabs-Internship-Project-1/
 
 ## ✨ Features
 - Continuous loop that runs until the user types `bye`, `exit` or `quit`
