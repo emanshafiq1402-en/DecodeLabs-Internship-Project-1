@@ -38,7 +38,7 @@ DecodeBot: Goodbye! Have a great day!
 ```
 
 ## 📁 Files
-- `chatbot.py` – terminal chatbot (Python)
+- `AI-chatbot.py` – terminal chatbot (Python)
 - `index.html` – web version (live demo)
 
 ## 🛠 Skills used
